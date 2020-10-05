@@ -2,6 +2,9 @@
 
 source "https://rubygems.org"
 
+gem 'jekyll-admin', group: :jekyll_plugins
+
+
 # Specify the gem's dependencies in jekyll-admin.gemspec
 gemspec
 
